@@ -1,4 +1,4 @@
-with open('modules.txt', 'r') as file:
+with open('Day_One/modules.txt', 'r') as file:
     content = file.readlines()
 
 
